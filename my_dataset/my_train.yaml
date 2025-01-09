@@ -1,0 +1,5 @@
+train: /home/hljiang/PycharmProjects/yolov10/my_dataset/train/images
+val: /home/hljiang/PycharmProjects/yolov10/my_dataset/valid/images
+
+nc: 7
+names: ['dry', 'wet', 'paper', 'cardboard', 'foam', 'metal', 'plastic']
